@@ -1,0 +1,6 @@
+.env.local
+.env*.local
+node_modules/
+.next/
+service-account.json
+env.yaml
